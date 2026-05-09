@@ -1,0 +1,6 @@
+build/
+*.o
+*.exe
+rcd
+draw.csv
+output.csv
